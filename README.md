@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![rand](https://rand-xyz.now.sh/api/hello)
 
-##About me
+About me
 
 
 Hello, I am Meet Patel, a Data Analyst based in Ahmedabad, India. Welcome to my GitHub profile. Allow me to introduce myself briefly.
