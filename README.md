@@ -1,10 +1,7 @@
 ## Hi there 👋
 ![rand](https://rand-xyz.now.sh/api/hello)
 
-I am Data Science and ML enthusiastic. My expertise programming languages includes Python 3 and R programming language. I have done several internships also .
-
-
-About me
+###About me
 Hello, I am Meet Patel, a Data Analyst based in Ahmedabad, India. Welcome to my GitHub profile. Allow me to introduce myself briefly.
 
 I am Data Science and ML enthusiastic. I have done several internships also. I have a natural ability to simplify complex concepts and effectively communicate. 🎓
