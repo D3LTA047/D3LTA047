@@ -25,6 +25,11 @@ Power BI
 
 Tableau
 
+Data Manipulation Libraries (pandas, numpy, SciPy, Matplotlib, Seaborn)
+
+Azure
+
+GCP
 
 Soft Skills
 Here is a list of my non-technical skills as a data analyst:
@@ -48,7 +53,7 @@ You can reach out to me through the following channels:
       [LinkedIn] https://www.linkedin.com/in/meetdineshbhaipatel/
       [Email] mdp12199@gmail.com
 
-<\link>
+
 
 
 <!--
