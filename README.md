@@ -45,20 +45,11 @@ Curiosity
 Contact
 You can reach out to me through the following channels:
 
-<link>[LinkedIn](https://www.linkedin.com/in/meetdineshbhaipatel/)<\link>
+<link>
+      [LinkedIn] https://www.linkedin.com/in/meetdineshbhaipatel/
+      [Email] mdp12199@gmail.com
 
-<link>mdp12199@gmail.com<\link>
-
-
-
-
-
-
-
-
-
-
-
+<\link>
 
 
 <!--
