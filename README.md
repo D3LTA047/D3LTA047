@@ -47,7 +47,7 @@ You can reach out to me through the following channels:
 
 <link>[LinkedIn](https://www.linkedin.com/in/meetdineshbhaipatel/)<\link>
 
-<link>[Email]mdp12199@gmail.com<\link>
+<link>mdp12199@gmail.com<\link>
 
 
 
