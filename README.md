@@ -12,7 +12,7 @@ My true passion lies in storytelling with data. I believe that data has the powe
 
 
 Feel free to reach out to me via email at mdp12199@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/meetdineshbhaipatel/. Additionally, I invite you to have a look and enjoy my portfolio. Let's collaborate and solve problems together! 📚
-
+![banner](https://github.com/Yogesh-dahake08/Yogesh-dahake08/blob/main/lower.gif)
 Skills
 Technical Skills
 Here is a list of my technical skills:
