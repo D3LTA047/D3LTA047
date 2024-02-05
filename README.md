@@ -13,19 +13,12 @@ I am Data Science and ML enthusiastic. I have done several internships also. I h
 My true passion lies in storytelling with data. I believe that data has the power to tell compelling stories, and I thoroughly enjoy weaving those narratives through insightful visualizations and clear explanations. My proficiency in SQL, Power BI, Tableau, and Python allows me to delve deep into intricate data sets, extracting valuable insights that drive informed business decisions. 💡
 
 
-Feel free to reach out to me via email at mdp12199@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/meetdineshbhaipatel/. Additionally, I invite you to have a look and enjoy my portfolio. Let's collaborate and solve problems together! 📚
+Feel free to reach out to me.📚
 
 
 # 🌐 Socials: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codeh4ck3r.github.io/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeh4ck3r/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_codeh4ck3r) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujitsuryawanshi987@gmail.com)
-
-
-
-
-[![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetdineshbhaipatel/) 
-
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdp12199@gmail.com)
+[![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetdineshbhaipatel/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdp12199@gmail.com)
 
 Skills
 Technical Skills
