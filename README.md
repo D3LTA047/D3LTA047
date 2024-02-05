@@ -25,7 +25,7 @@ Feel free to reach out to me via email at mdp12199@gmail.com or connect with me 
 
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetdineshbhaipatel/) 
 
-
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdp12199@gmail.com)
 
 Skills
 Technical Skills
