@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3lta047&label=Profile%20views&color=800000&style=flat" alt="d3lta047" /> </p>
+
 ## Hi there 👋
 ![rand](https://rand-xyz.now.sh/api/hello)
 
