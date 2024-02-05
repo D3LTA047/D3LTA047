@@ -20,6 +20,8 @@ Feel free to reach out to me.📚
 
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetdineshbhaipatel/) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdp12199@gmail.com)
 
+- 👨‍💻 My projects are available at My [portfolio](https://d3lta047.github.io/Portfolio/)
+
 Skills
 Technical Skills
 Here is a list of my technical skills:
@@ -62,11 +64,10 @@ Time Management
 Curiosity
 
 Contact
-You can reach out to me through the following channels:
+You can reach out to me through my Portfolio:
 
 <link>
       [Portfolio] https://d3lta047.github.io/Portfolio/
-      [Email] mdp12199@gmail.com
 
 
 
