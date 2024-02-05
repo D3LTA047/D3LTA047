@@ -65,7 +65,7 @@ Contact
 You can reach out to me through the following channels:
 
 <link>
-      [LinkedIn] https://www.linkedin.com/in/meetdineshbhaipatel/
+      [Portfolio] https://d3lta047.github.io/Portfolio/
       [Email] mdp12199@gmail.com
 
 
