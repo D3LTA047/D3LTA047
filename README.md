@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=D3LTA047&icon=9&color=11)](https://visitcount.itsvg.in)
+
 ## Hi there 👋
 ![rand](https://rand-xyz.now.sh/api/hello)
 
@@ -84,10 +86,7 @@ Curiosity
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=D3LTA047&icon=9&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
