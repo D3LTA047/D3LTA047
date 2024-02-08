@@ -63,6 +63,15 @@ Time Management
 
 Curiosity
 
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3LTA047&layout=compact&theme=transparent" alt=D3LTA047 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=D3LTA047&show_icons=true&locale=en&theme=transparent" alt="D3LTA047" /></p>
+
+
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=D3LTA047&theme=transparent" alt="D3LTA047" /></p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/D3LTA047">
