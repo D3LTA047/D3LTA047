@@ -96,9 +96,9 @@ You can reach out to me through my Portfolio:
 <link>
       [Portfolio] https://d3lta047.github.io/Portfolio/
 
-
-
-
+<div>
+chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true">
+</div>
 <!--
 **D3LTA047/D3LTA047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
